@@ -18,4 +18,6 @@ Creating functions to extract multiple data and creating dataframe.
 
 Finally,converted the DataFrame to a .csv file.
 
+Changing the data type of columns as required for future analysis.
+
 Data shape is (48, 6).
